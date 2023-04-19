@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Emerson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonmcostaa/)](https://www.linkedin.com/in/emersonmcostaa/) 
+
 <!--
 **emersonmcostaa/emersonmcostaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
