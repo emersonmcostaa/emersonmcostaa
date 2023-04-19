@@ -1,7 +1,8 @@
 # Emerson Costa
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Emerson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonmcostaa/)](https://www.linkedin.com/in/emersonmcostaa/) 
-[![Gmail Badge](https://img.shields.io/badge/-emersonmonteiro.costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emersonmonteiro.costa@gmail.com)](mailto:emersonmonteiro.costa@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Emerson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonmcostaa/)](https://www.linkedin.com/in/emersonmcostaa/)
+[![outlook Badge](https://img.shields.io/badge/-emersonmonteiro.costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emersonmonteiro.costa@gmail.com)](mailto:emersonmonteiro.costa@gmail.com)
+
 
 ## Sobre
 
