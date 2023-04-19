@@ -1,18 +1,17 @@
 # Emerson Costa
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Emerson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonmcostaa/)](https://www.linkedin.com/in/emersonmcostaa/) 
+[![Gmail Badge](https://img.shields.io/badge/-emersonmonteiro.costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emersonmonteiro.costa@gmail.com)](mailto:emersonmonteiro.costa@gmail.com)
 
-<!--
-**emersonmcostaa/emersonmcostaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
 
-Here are some ideas to get you started:
+💻 &nbsp;Engenheiro de dados  
+🆙 &nbsp;Cerficado pela Microsoft (AZ-900)  
+⚡ &nbsp;Bacharelando em Engenharia Elétrica    
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência Profissional
+
+💻 &nbsp;[MAI/2022 - Presente] Desenvolvedor Python (Autônomo)  
+💻 &nbsp;[JUL/2015 - Presente] Tecnico em Pesquisa e Desenvolvimento  
+ 
