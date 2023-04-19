@@ -1,4 +1,4 @@
-### Hi there 👋
+# Emerson Costa
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Emerson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonmcostaa/)](https://www.linkedin.com/in/emersonmcostaa/) 
 
