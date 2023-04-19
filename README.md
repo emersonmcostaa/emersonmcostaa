@@ -15,7 +15,7 @@
 💻 &nbsp;[MAI/2022 - Presente] Desenvolvedor Python (Autônomo)  
 💻 &nbsp;[JUL/2015 - Presente] Tecnico em Pesquisa e Desenvolvimento  
  
- ## 🛠️ Skills  
+ ## Skills  
  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
