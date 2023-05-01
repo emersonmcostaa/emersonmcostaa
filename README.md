@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Emerson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonmcostaa/)](https://www.linkedin.com/in/emersonmcostaa/)
 [![outlook Badge](https://img.shields.io/badge/-emersonmonteiro.costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emersonmonteiro.costa@gmail.com)](mailto:emersonmonteiro.costa@gmail.com) 
 [![outlook Badge](https://img.shields.io/badge/emersonmonteiro.costa@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:emersonmonteiro.costa@outlook.com)](mailto:emersonmonteiro.costa@outlook.com)
-![outlook Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=(https://api.whatsapp.com/send/?phone=5585984203725&text&type=phone_number&app_absent=0))
+[![outlook Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5585984203725&text&type=phone_number&app_absent=0)
 
 
 
