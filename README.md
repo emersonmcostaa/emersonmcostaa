@@ -10,7 +10,7 @@
 ## Sobre
 
 💻 &nbsp;Engenheiro de dados  
-🆙 &nbsp;Cerficado pela Microsoft (AZ-900)  
+🆙 &nbsp;Cerficação Microsoft (AZ-900)  
 ⚡ &nbsp;Bacharelando em Engenharia Elétrica    
  
 
