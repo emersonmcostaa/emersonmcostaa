@@ -16,7 +16,7 @@
 
 ## Experiência Profissional
 
-💻 &nbsp;[MAI/2022 - Presente] Desenvolvedor Python (Autônomo)  
+💻 &nbsp;[MAR/2022 - MAR/2023] Desenvolvedor Python (Autônomo)  
 💻 &nbsp;[JUL/2015 - Presente] Tecnico em Pesquisa e Desenvolvimento  
  
  ## Skills  
