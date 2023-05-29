@@ -42,4 +42,4 @@
 
 
 
-![snake gif](https://github.com/emersonmcostaa/emersonmcostaa/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/emersonmcostaa/emersonmcostaa/blob/output/github-contribution-grid-snake.svg)
