@@ -17,10 +17,10 @@ Minhas principais skills:
 [![outlook Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5585984203725&text&type=phone_number&app_absent=0)
 ##
 ### Experiência em Projetos de Engenharia e Arquitetura de Dados:
-- Analise de dados com pandas.
-- Extração (Web scraping), Transformação e Carregamento dos dados (ETL) com Spark.
+- Analise de Dados com Pandas.
+- Extração (Web Scraping), Transformação e Carregamento dos dados (ETL) com Spark.
 - Integração de Script Python com GCP e API Google Sheets.
-- Automação de processos e sistemas web.
+- Automação de Processos e Sistemas Web.
 - Cloud Azure.
 ##
 ### Atuação Profissional
