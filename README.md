@@ -18,7 +18,7 @@ Minhas principais skills:
 ##
 ### Experiência em Projetos de Engenharia e Arquitetura de Dados:
 - Analise de dados com pandas.
-- Web scraping, transformação e carregamento dos dados (ETL) Spark.
+- Extração (Web scraping), Transformação e Carregamento dos dados (ETL) com Spark.
 - Integração de Script Python com GCP e API Google Sheets.
 - Automação de processos e sistemas web.
 - Cloud Azure.
