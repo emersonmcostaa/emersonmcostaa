@@ -7,7 +7,8 @@ Sou engenheiro de dados, meu objetivo é ajudar empresas a resolver seus problem
   - **Microsoft Certified: Azure Fundamentals (AZ-900)**
   - **Astronomer Certified: Apache Airflow Fundamentals**  
 
-- **Bacharelando em Engenharia Elétrica.**
+- **Bacharelando em Engenharia Elétrica.**  
+
 Minhas principais skills:  
   - **Python, SQL, Spark, Apache Airflow, ETL, Web Scraping.**
 ##
