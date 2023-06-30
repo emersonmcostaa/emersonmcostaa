@@ -1,8 +1,7 @@
 # Hi there  I'm Emerson Costa 👋
 
-Por aqui vai achar códigos de automação, processos de ETL, web scraping e afins.  
-Fique a vontade pra melhorar no que for possivel.  
-
+Por aqui vai achar códigos de automação, processos de ETL, Web Scraping e afins. Fique a vontade pra melhorar no que for possivel.  
+##
 Sou engenheiro de dados, meu objetivo é ajudar empresas a resolver seus problemas com dados.  
  
 - **Cetificações:**
@@ -14,6 +13,8 @@ Sou engenheiro de dados, meu objetivo é ajudar empresas a resolver seus problem
 Minhas principais skills:  
 
   - **Python, SQL, Spark, Apache Airflow, ETL, Web Scraping.**
+
+##
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Emerson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonmcostaa/)](https://www.linkedin.com/in/emersonmcostaa/)
 [![outlook Badge](https://img.shields.io/badge/-emersonmonteiro.costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emersonmonteiro.costa@gmail.com)](mailto:emersonmonteiro.costa@gmail.com) 
