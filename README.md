@@ -4,7 +4,7 @@ Por aqui vai achar códigos de automação, processos de ETL, Web Scraping e afi
 ##
 Sou engenheiro de dados, meu objetivo é ajudar empresas a resolver seus problemas com dados.  
 - **Cetificações:**
-  - **Microsoft Certified: Azure DAta Fundamentals (DP-900)**
+  - **Microsoft Certified: Azure Data Fundamentals (DP-900)**
   - **Microsoft Certified: Azure Fundamentals (AZ-900)**
   - **Astronomer Certified: Apache Airflow Fundamentals**  
 
