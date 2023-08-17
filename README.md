@@ -25,7 +25,7 @@ Minhas principais skills:
 - Cloud Azure.
 ##
 ### Atuação Profissional
-- Engenheiro de dados (Esagiario)  - A3DATA Consutoria - [JUL/2023 - Presente]
+- Engenheiro de dados (Estagiario)  - A3DATA Consutoria - [JUL/2023 - Presente]
 - Engenheiro de dados  - Freelancer - [MAI/2023 - JUN]
 - Desenvolvedor Python - Autônomo - [MAR/2022 - MAR/2023]
 - Tecnico em Pesquisa e Desenvolvimento  - Instituto Presbiteriano Mackenzie - [JUL/2015 - Presente]
@@ -36,7 +36,6 @@ Minhas principais skills:
  - Python
  - Airflow
  - Docker
- - Ecosistema Hadoop
  - Git e GitHub
  - Linux
  - Azure
