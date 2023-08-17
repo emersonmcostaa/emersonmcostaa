@@ -4,6 +4,7 @@ Por aqui vai achar códigos de automação, processos de ETL, Web Scraping e afi
 ##
 Sou engenheiro de dados, meu objetivo é ajudar empresas a resolver seus problemas com dados.  
 - **Cetificações:**
+  - **Microsoft Certified: Azure DAta Fundamentals (DP-900)**
   - **Microsoft Certified: Azure Fundamentals (AZ-900)**
   - **Astronomer Certified: Apache Airflow Fundamentals**  
 
@@ -24,7 +25,8 @@ Minhas principais skills:
 - Cloud Azure.
 ##
 ### Atuação Profissional
-- Engenheiro de dados  - Freelancer - [MAI/2023 - Presente]
+- Engenheiro de dados (Esagiario)  - A3DATA Consutoria - [JUL/2023 - Presente]
+- Engenheiro de dados  - Freelancer - [MAI/2023 - JUN]
 - Desenvolvedor Python - Autônomo - [MAR/2022 - MAR/2023]
 - Tecnico em Pesquisa e Desenvolvimento  - Instituto Presbiteriano Mackenzie - [JUL/2015 - Presente]
  ##
