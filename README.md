@@ -4,10 +4,10 @@ Por aqui vai achar códigos de automação, processos de ETL, Web Scraping e afi
 ##
 Sou engenheiro de dados, meu objetivo é ajudar empresas a resolver seus problemas com dados.  
 - **Cetificações:**
-  - **Databricks Lakehouse Fundamentals**
-  - **Microsoft Certified: Azure Data Fundamentals (DP-900)**
-  - **Microsoft Certified: Azure Fundamentals (AZ-900)**
-  - **Astronomer Certified: Apache Airflow Fundamentals**  
+  - [**Databricks Lakehouse Fundamentals**](https://credentials.databricks.com/406a8e45-1d21-49cd-ad6f-dc7770181848)
+  - [**Microsoft Certified: Azure Data Fundamentals (DP-900)**](https://learn.microsoft.com/pt-br/users/emersonmcostaa/credentials/8353bc0b7ac1fafd)
+  - [**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://www.credly.com/badges/3ab74ea0-66c0-467f-aeca-91d8f4b58937/linked_in_profile)
+  - [**Astronomer Certified: Apache Airflow Fundamentals**](https://www.credly.com/badges/af723eb8-9369-44f9-b18a-de3f41c14d82/linked_in_profile)  
 
 - **Bacharelando em Engenharia Elétrica.**  
 
