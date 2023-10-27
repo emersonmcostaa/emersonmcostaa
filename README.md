@@ -1,9 +1,10 @@
-# Hi there  I'm Emerson Costa 👋
+# Hi there! I'm Emerson Costa! 👋
 
 Por aqui vai achar códigos de automação, processos de ETL, Web Scraping e afins. Fique a vontade pra melhorar no que for possivel.  
 ##
 Sou engenheiro de dados, meu objetivo é ajudar empresas a resolver seus problemas com dados.  
 - **Cetificações:**
+  - **Databricks Lakehouse Fundamentals**
   - **Microsoft Certified: Azure Data Fundamentals (DP-900)**
   - **Microsoft Certified: Azure Fundamentals (AZ-900)**
   - **Astronomer Certified: Apache Airflow Fundamentals**  
@@ -26,19 +27,22 @@ Minhas principais skills:
 ##
 ### Atuação Profissional
 - Engenheiro de dados (Estagiario)  - A3DATA Consutoria - [JUL/2023 - Presente]
-- Engenheiro de dados  - Freelancer - [MAI/2023 - JUN]
+- Engenheiro de dados  - Freelancer - [MAR/2023 - Presente]
 - Desenvolvedor Python - Autônomo - [MAR/2022 - MAR/2023]
 - Tecnico em Pesquisa e Desenvolvimento  - Instituto Presbiteriano Mackenzie - [JUL/2015 - Presente]
  ##
  ### Skills  
  - SQL
- - Apache Spark
  - Python
+ - Apache Spark
  - Airflow
  - Docker
  - Git e GitHub
- - Linux
- - Azure
  - ETL, ELT
  - Web Scraping
- - HTML
+ - Linux
+ - Azure Repos
+ - Snowflake
+ - EC2
+ - S3
+
