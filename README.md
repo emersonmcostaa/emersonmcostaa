@@ -18,13 +18,6 @@ Minhas principais skills:
 [![outlook Badge](https://img.shields.io/badge/-emersonmonteiro.costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emersonmonteiro.costa@gmail.com)](mailto:emersonmonteiro.costa@gmail.com) 
 [![outlook Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5585984203725&text&type=phone_number&app_absent=0)
 ##
-### Experiência em Projetos de Engenharia e Arquitetura de Dados:
-- Analise de Dados com Pandas.
-- Extração (Web Scraping), Transformação e Carregamento dos dados (ETL) com Spark.
-- Integração de Script Python com GCP e API Google Sheets.
-- Automação de Processos e Sistemas Web.
-- Cloud Azure.
-##
 ### Atuação Profissional
 - Engenheiro de dados (Estagiario)  - A3DATA Consutoria - [JUL/2023 - Presente]
 - Engenheiro de dados  - Freelancer - [MAR/2023 - Presente]
